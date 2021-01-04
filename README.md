@@ -1,2 +1,2 @@
 # sps-python-course
-A Jupyter based course for teaching Python to 5th and 6th form (Y10/Y11) 
+A multi-platform based course for teaching Python to 4th, 5th and 6th form (T9/Y10/Y11).  
