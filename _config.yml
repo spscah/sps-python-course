@@ -1,1 +1,19 @@
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-hacker
+# theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+
+
+description: A Python course  from SPS Computing 
+title: SPS Python Course 
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: /assets/SPSLogo.jpg
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://sps-python-course.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+search_enabled: true
+
+aux_links:
+  "SPS Python Course on GitHub":
+    - "//github.com/spscah/sps-python-course/"
